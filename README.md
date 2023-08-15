@@ -1,6 +1,6 @@
 # Tremor-Storybook boilerplate 
 
-### Initiate React Project
+### Initiate react with vite
 ```bash
 pnpm  create  vite
 ```
@@ -85,10 +85,4 @@ import '../src/styles/tailwind.css';
 ```
 
 If you run `pnpm run storybook` you should be able to see the `KPIProgressChart` component with necessary styling.
-
-# Automate css export
-
-```bash
-pnpm add -D concurrently
-```
 
